@@ -16,7 +16,7 @@ Features
 
 Live App 🌍
 
-Launch Quintessence AI
+[Launch Quintessence AI](https://quintessence-ai-2025.streamlit.app/)
 
 Project Setup
 
